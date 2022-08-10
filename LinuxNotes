@@ -1,3 +1,8 @@
 Important linux notes
 
-Basics of Bash scripting
+Basics of Bash scriptin
+
+
+#This is the Sha-Bang
+
+#!/bin/bash
